@@ -2,14 +2,14 @@
 
 ## Índice
 
-* [1. Resumo do projeto](#2-resumo-do-projeto)
-* [2. Objetivos de aprendizagem](#3-objetivos-de-aprendizagem)
+* [1. Resumo do projeto](#1-resumo-do-projeto)
+* [2. Objetivos de aprendizagem](#2-objetivos-de-aprendizagem)
 * [3. Critérios de aceitação mínima do
-  projeto](#5-critérios-de-aceitação-mínima-do-projeto)
-* [4. Hacker edition](#6-hacker-edition)
-* [5. Considerações técnicas](#7-considerações-técnicas)
+  projeto](#3-critérios-de-aceitação-mínima-do-projeto)
+* [4. Hacker edition](#4-hacker-edition)
+* [5. Considerações técnicas](#5-considerações-técnicas)
 * [6. Guias, dicas e leituras
-  complementares](#8-guias-dicas-e-leituras-complementares)
+  complementares](#6-guias-dicas-e-leituras-complementares)
 
 ***
 
