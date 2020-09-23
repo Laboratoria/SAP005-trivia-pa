@@ -17,7 +17,7 @@
 
 O que tenho que fazer exatamente? Neste projeto você desenvolverá uma aplicações web de perguntas e respostas. Sua aplicação deve permitir que o usuário responda uma perguntas e escolha as respostas, a partir de uma lista de alternativas.
 
-O tema é livre. Você deve criar a melhor aplicações web possível.
+O tema é livre. Você deve criar a melhor aplicação web possível.
 
 ## 2. Objetivos de aprendizagem
 
@@ -30,12 +30,13 @@ Pense nos passos que o usuário tem que percorrer, repasse o fluxograma e se org
 ### HTML e CSS
 
 * [ ] [Uso de HTML semântico.](https://developer.mozilla.org/pt-BR/docs/Glossario/Semantica#Sem%C3%A2ntica_em_HTML)
-* [ ] Uso de selectores de CSS.
+* [ ] Uso de seletores de CSS.
+* [ ] Construa sua aplicação respeitando o design feito (layout).
 
 ### JavaScript
 
-* [ ] Uso de condicionais
-* [ ] Uso de funções
+* [ ] Uso de condicionais (if-else | switch | operador ternario)
+* [ ] Uso de funções (parâmetros | argumentos | valor de retorno)
 * [ ] Declaração correta de variáveis (const & let)
 
 ### Estrutura de código e guia de estilo
@@ -62,7 +63,6 @@ Seguem exemplos de tela. Você pode usar as cores e fontes que quiser e acrescen
 ![tela 2](https://user-images.githubusercontent.com/39506102/74755700-47958a80-5252-11ea-8028-42540b43f8cd.png)
 
 ![tela 3](https://user-images.githubusercontent.com/39506102/74755741-58de9700-5252-11ea-8028-07457b24f16b.png)
-
 
 ![tela 4](https://user-images.githubusercontent.com/39506102/74755765-6267ff00-5252-11ea-892a-20e85d7fa099.png)
 
